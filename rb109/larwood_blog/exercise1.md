@@ -13,4 +13,4 @@ On line 1, local variable `a` is initialized and references a string object with
 
 Both `a` and `b` are passed as arguments to the `puts` method, which outputs their values to the console. Because `puts` always returns `nil`, this is what we see from both expressions.
 
-This example demonstrates how Ruby employs its *variables as pointers* to an address space in memory, rather than containing object values within themselves.
+This example demonstrates how Ruby employs its **variables as pointers** to an address space in memory, rather than containing object values within themselves.
