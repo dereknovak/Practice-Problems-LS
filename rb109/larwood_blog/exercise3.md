@@ -1,4 +1,5 @@
-```Ruby a = 4
+```Ruby
+a = 4
 b = 2
 
 loop do  
