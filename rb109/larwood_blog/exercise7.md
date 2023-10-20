@@ -15,4 +15,4 @@ On line 3, the `times` method is called on the integer `5` with one parameter, `
 
 On line 7, the value of `a` is passed as an argument to the `p` method, which outputs and returns its value with string syntax.
 
-This example demonstrates how Ruby approaches _variable scope_ in regards to blocks. A block establishes its own scope that can access local variables initialized outside of it, but not the other way around. This is the reason that the `a` on line 4 is able to reassign, rather than be initialized.
+This example demonstrates how Ruby approaches **variable scope** in regards to blocks. A block establishes its own scope that can access local variables initialized outside of it, but not the other way around. This is the reason that `a` on line 4 is able to reassign, rather than be initialized.
