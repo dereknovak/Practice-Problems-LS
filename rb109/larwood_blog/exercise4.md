@@ -1,4 +1,5 @@
-```Ruby def example(str)
+```Ruby
+def example(str)
   i = 3
   loop do
     puts str
