@@ -1,4 +1,5 @@
-```Ruby animal = "dog"
+```Ruby
+animal = "dog"
 
 loop do |_|  
   animal = "cat"  
