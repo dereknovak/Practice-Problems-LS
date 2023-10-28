@@ -1,3 +1,4 @@
+What is assigned to `arr` on line 6? Why?ß
 ```Ruby
 a = [1, 3]
 b = [2]
