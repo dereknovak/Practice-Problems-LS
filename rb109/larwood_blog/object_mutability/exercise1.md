@@ -1,4 +1,6 @@
-```Ruby def fix(value)
+What values do `s` and `t` have? Why? What concept does this demonstrate?
+```Ruby
+def fix(value)
   value.upcase!
   value.concat('!')
   value
