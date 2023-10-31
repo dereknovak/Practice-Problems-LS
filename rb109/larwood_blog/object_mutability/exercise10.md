@@ -1,5 +1,6 @@
 What does the following code output? Why?
-```Ruby def add_name(arr, name)
+```Ruby
+def add_name(arr, name)
   arr = arr + [name]
 end
 
