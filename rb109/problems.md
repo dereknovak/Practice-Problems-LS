@@ -36,7 +36,7 @@ end
 ```
 - 4
 ```Ruby
-# What is output? Why?
+# What will be returned on line 3? Why? What edge case would cause this code to fail?
 number = 5
 
 number > 6 ? "Greater than 6!" : "Less than 6..."
