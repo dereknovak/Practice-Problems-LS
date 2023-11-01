@@ -14,7 +14,7 @@ end
 # What is output? Why?
 animal = 'cat'
 
-if animal = 'dog'
+if animal == 'dog'
   puts 'Woof'
 else
   puts 'Meow'
