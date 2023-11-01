@@ -1,3 +1,4 @@
+What will be returned on line 3? Why? Can you identify an edge case involving an integer that would cause this code to fail?
 ```Ruby
 number = 5
 
